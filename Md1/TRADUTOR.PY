@@ -12,3 +12,4 @@ conteudo = ''
 while conteudo != " ":
     conteudo = input("Digite a expressão: ")
     print(traduzGit(conteudo))
+
